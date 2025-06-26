@@ -60,7 +60,7 @@ Puedes encontrar el código fuente completo en [`main.c`](./main.c).
 
 ## 🛠 Archivos de Modelado 3D
 
-El modelo 3D del animatrónico está disponible en la carpeta [`/modelo_3D/`](./modelo_3D/). Incluye archivos STL para impresión de las piezas adaptadas al tamaño de los servos utilizados.
+El modelo 3D del animatrónico está disponible en la carpeta [`/modelo_3d/`](./modelo_3d/). Incluye archivos STL para impresión de las piezas adaptadas al tamaño de los servos utilizados.
 
 ---
 
